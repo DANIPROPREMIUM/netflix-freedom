@@ -15,7 +15,7 @@
 
 ## 📋 Descripción
 
-Netflix Freedom es una extensión para Chrome que te permite disfrutar de Netflix sin las molestas restricciones de uso compartido de cuentas. Olvídate de los mensajes de "No eres parte del hogar" y disfruta tu contenido favorito sin interrupciones.
+Netflix Freedom es una extensión para Chrome y navegadores basados en Chromium (Edge, Ópera, Vivaldi...) que te permite disfrutar de Netflix sin las molestas restricciones de uso compartido de cuentas. Olvídate de los mensajes de "No eres parte del hogar" y disfruta tu contenido favorito sin interrupciones.
 
 ### ✨ Características Principales
 
