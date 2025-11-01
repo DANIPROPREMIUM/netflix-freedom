@@ -34,7 +34,7 @@ Netflix Freedom es una extensión para Chrome y navegadores basados en Chromium 
 
 1. **Descarga el archivo ZIP** de este repositorio y pones la carpeta fuera del ZIP:
 2. **Click aquí**: https://github.com/DANIPROPREMIUM/netflix-freedom/archive/refs/heads/master.zip
-3. **Abre Chrome u otro navegador basado en él** y navega a `chrome://extensions/`
+3. **Abre Chrome u otro navegador basado en él**, copia y pega en la barra de búsqueda: `chrome://extensions/`
 4. **Activa el "Modo de desarrollador"** (esquina superior derecha en el caso de Chrome)
 5. **Haz clic en "Cargar descomprimida"**
 6. **Selecciona la carpeta** donde descargaste los archivos
